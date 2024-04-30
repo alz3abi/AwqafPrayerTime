@@ -5,6 +5,7 @@ CALSCALE:GREGORIAN
 NAME:مواقيت الصلاة لمدينة الشارقة من 30-4-2024 حتي 30-6-2025
 TIMEZONE-ID:Asia/Dubai
 X-WR-TIMEZONE:Asia/Dubai
+TZID:Asia/Dubai
 X-WR-CALNAME;VALUE=TEXT:مواقيت الصلاة لمدينة الشارقة من 30-4-2024 حتي 30-6-2025
 BEGIN:VEVENT
 SUMMARY: صلاة الفجر
