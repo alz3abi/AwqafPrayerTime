@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Chimbori//CSV to iCal Convertor// https://csv-to-ical.chimbori.com/ //EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME;VALUE=TEXT:Prayer_Sharjah-30-Apr-2024-to-30-Jun-2025
+X-WR-CALNAME;VALUE=TEXT:مواقيت الصلاة لمدينة الشارقة من 30-4-2024 حتي 30-6-2025
 BEGIN:VEVENT
 SUMMARY: صلاة الفجر
 DTSTAMP:20240430T042000
